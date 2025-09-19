@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977896943604",
+    "project_id": "travel-booking-app-aef05",
+    "storage_bucket": "travel-booking-app-aef05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977896943604:android:cd02369a3c8d1ded0193a1",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_XArTHcOlYJPm196xY78YL8AroD72R4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
